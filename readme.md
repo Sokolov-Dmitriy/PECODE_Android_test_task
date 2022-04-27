@@ -9,7 +9,8 @@
 ##### - Coroutines, Flow, StateFlow, SharedFlow.
 ------------
 
-#### [Техническое задание[pdf]](https://github.com/Sokolov-Dmitriy/PECODE_Android_test_task/noCode/task.pdf "Техническое задание[pdf]")
+#### [Техническое задание[pdf]](https://github.com/Sokolov-Dmitriy/PECODE_Android_test_task/blob/master/noCode/task.pdf "Техническое задание[pdf]")
 ------------
 ##### Разработчики:
 ##### - [Соколов Дмитрий](https://github.com/Sokolov-Dmitriy "Соколов Дмитрий")
+
